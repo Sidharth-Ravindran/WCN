@@ -1,0 +1,6 @@
+{
+  "name": "NetLab Matrix — Cisco & Python Lab Showcase",
+  "description": "Interactive laboratory experiments showcase for Computer Networks (Cisco Packet Tracer) and Python systems programming with live topology simulations, code runners, and lab reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
